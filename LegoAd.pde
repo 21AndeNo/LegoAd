@@ -1,14 +1,14 @@
-void setup() {
-  size(800, 700);
-  noStroke();
-  background(249, 242, 223);
-}
-
 int asterix_x = -200;
 int asterix_y = -300;
 int dogmatix_y = -400;
 int obelix_x = 300;
 int obelix_y = 300;
+
+void setup() {
+  size(800, 700);
+  noStroke();
+  background(249, 242, 223);
+}
 
 void draw() {
   background(249, 242, 223);
