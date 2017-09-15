@@ -57,3 +57,4 @@ void draw() {
    if (dogmatix_y < 0) {
      dogmatix_y += 4;
    }
+}
